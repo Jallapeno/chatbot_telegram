@@ -24,3 +24,5 @@ Chatbot para Telegram
     10 - abra seu terminal/CMD 
     
     11 - navegue até a pasta do projeto e execute o bot com "python bot.py"
+    
+    12 - navegue até a pasta do projeto e execute o bot com "python botjson.py" 

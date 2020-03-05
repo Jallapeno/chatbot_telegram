@@ -1,7 +1,7 @@
 # chatbot_telegram
 Chatbot para Telegram
 
-### criando bot no telegram
+### Criando bot no telegram
     
     1 - Na barra de pesquisa do telegram digite @BotFather para se conectar ao criador de bots do telegram
     
